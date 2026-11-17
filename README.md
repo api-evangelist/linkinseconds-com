@@ -1,4 +1,4 @@
-# linkinseconds-com
+# Link in Seconds
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,138 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-linkinseconds-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://linkinseconds.com/
+Link in Seconds provides a browser‑based service that lets users upload files – PDFs, images, videos, audio, code, data archives and more – and instantly generate clean public links. Links can be password‑protected, set to expire, tracked for views, and even hosted as static HTML sites. Plans start with a 7‑day free trial and scale to Pro ($9/mo) and Lifetime ($99) offering unlimited links and up to 200 GB storage. The founder Sunny Radadiya runs the service from Surat, India, focusing on simplicity and privacy.
+
+**Areas:** FileSharing · LinkManagement · SaaS · CloudStorage · Productivity
+
+## Link in Seconds on APIs.io
+
+Everything profiled for Link in Seconds is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/linkinseconds-com/](https://apis.io/providers/linkinseconds-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Link in Seconds Analytics API](https://apis.io/apis/linkinseconds-com/linkinseconds-com-analytics-api/) — The Analytics API from Link in Seconds — 1 operation(s) for analytics.
+- [Link in Seconds Links API](https://apis.io/apis/linkinseconds-com/linkinseconds-com-links-api/) — The Links API from Link in Seconds — 2 operation(s) for links.
+- [Link in Seconds Status API](https://apis.io/apis/linkinseconds-com/linkinseconds-com-status-api/) — The Status API from Link in Seconds — 1 operation(s) for status.
+- [Link in Seconds Uploads API](https://apis.io/apis/linkinseconds-com/linkinseconds-com-uploads-api/) — The Uploads API from Link in Seconds — 2 operation(s) for uploads.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Link in Seconds Agentic Access](https://apis.io/agentic-access/linkinseconds-com/linkinseconds-com-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [AnalyticsReport](https://apis.io/schemas/linkinseconds-com/linkinseconds-com-analytics-report/)
+- [Link](https://apis.io/schemas/linkinseconds-com/linkinseconds-com-link/)
+- [LinkSummary](https://apis.io/schemas/linkinseconds-com/linkinseconds-com-link-summary/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Linkinseconds Com Context](https://apis.io/jsonld/linkinseconds-com/linkinseconds-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Link in Seconds Openapi Overlay](https://apis.io/overlays/linkinseconds-com/linkinseconds-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Link in Seconds API Rules](https://apis.io/rules/linkinseconds-com/linkinseconds-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Link in Seconds Authentication](https://apis.io/security/linkinseconds-com/linkinseconds-com-authentication/)
+- [Link in Seconds Domain Security](https://apis.io/security/linkinseconds-com/linkinseconds-com-domain-security/)
+- [Link in Seconds Vulnerability Disclosure](https://apis.io/security/linkinseconds-com/linkinseconds-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Link in Seconds Plans Pricing](https://apis.io/plans/linkinseconds-com/linkinseconds-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://linkinseconds.com/)
+- [Documentation](https://linkinseconds.com/docs)
+- [Getting started](https://linkinseconds.com/docs/quickstart)
+- [API reference](https://linkinseconds.com/docs/api/reference)
+- [Pricing](https://linkinseconds.com/pricing)
+- [Blog](https://linkinseconds.com/blog)
+- [Security](https://linkinseconds.com/security)
+- [Trust centre](https://linkinseconds.com/trust)
+- [Terms of service](https://linkinseconds.com/terms)
+- [Privacy policy](https://linkinseconds.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 59.4** — strong · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.8 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 65.5 |
+
+**Agent readiness 60.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/linkinseconds-com/](https://apis.io/providers/linkinseconds-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Link in Seconds: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/linkinseconds-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
